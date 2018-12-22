@@ -91,4 +91,4 @@ friend want to present?  Please reach out by either [opening a discussion][2],
 [1]: https://discord.gg/rE3pcSw
 [2]: https://www.meetup.com/JAMstack-Oslo/discussions/
 [3]: https://www.meetup.com/JAMstack-Oslo/messages/send
-[4]: mailto: alexander@alemayhu.com
+[4]: mailto:alexander@alemayhu.com
