@@ -18,11 +18,11 @@ We went through the following items
 
 We both would like to see a JAMstack community foster in Oslo.  There are
 already existing overlapping groups but we would like to have one dedicated.
-With relatively frequent event (once a month).
+With relatively frequent events (once a month).
 
 ## The kind of format we would like to have
 
-We talked about three kind of formats: Talk, Showcase and JAMstack social.  We
+We talked about three kind of formats: `Talk`, `Showcase` and `JAMstack social`.  We
 will likely invest the most time in the talks but very happy if anyone else
 from the community wants to organize more events.
 
@@ -35,6 +35,8 @@ every month.  So basically one talk per month.
 In the unlikely case a speaker has to cancel Aman or me will step in with a
 backup talk prepared for this occasion.
 
+Is talk 45 minutes + 10 minutes Q&A too long?
+
 ### Showcase
 
 If you are familiar with lightning talks, then this is basically the same
@@ -42,10 +44,15 @@ thing.  We want to group a small batch of interesting projects and allow
 presenters to showcase what they are working on. This could be a new feature in
 your product, open source tool, etc.
 
+How much time is enough for a lightning talk?
+
 ### JAMstack social
 
 This is a soft meetup where the focus is on getting together eating food,
 enjoying beverages, and talking about tech.
+
+It would be great if we could make this event inclusive to whoever wants to
+come. Maybe we can find a sponsor for these type of event?
 
 ## Collaborating with Knut from Sanity and others
 
@@ -53,7 +60,7 @@ We would like this meetup to outlive us so the best way we know how to do that
 is to give control to anyone who takes initiative. Knut Melvær reached out over
 DMs on Meetup and kindly offered hosting at the Sanity office. This is much
 better than what we had initial found so I will take that offer and follow up
-on email soon.
+on email soon. Maybe we found new a co-organizer?
 
 If by any chance someone else in Oslo is reading this and not part of the
 meetup yet, please join us at [JAMstack Oslo][0].
@@ -83,8 +90,8 @@ No summary here, don't want to spoil it for you ;)
 
 ## Potential contributors
 
-If have any suggestions on topics. Do you want to present something? Does your
-friend want to present?  Please reach out by either [opening a discussion][2],
+If you have any suggestions on topics, want to present something, or know a
+friend who does.  Please reach out by either [opening a discussion][2],
 [sending a DM][3] or [email][4]. Whatever works best for you :)
 
 [0]: https://www.meetup.com/JAMstack-Oslo/
