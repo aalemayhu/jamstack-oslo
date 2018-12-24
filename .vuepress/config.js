@@ -1,10 +1,11 @@
 module.exports = {
+  title: 'JAMstack Oslo',
+  description: 'Notes on the organization and planning of JAMstack Oslo chapter',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Meetings', link: '/meetings/' },
-      { text: 'Discord', link: 'https://discord.gg/rE3pcSw' },
       { text: 'Meetup', link: 'https://www.meetup.com/JAMstack-Oslo/' },
+      { text: 'Calendar', link: 'https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20' },
+      { text: 'Discord', link: 'https://discord.gg/rE3pcSw' },
       { text: 'GitHub', link: 'https://github.com/scanf/jamstack-oslo' },
     ],
     sidebar: [
