@@ -86,13 +86,13 @@ polish it.
 
 ## Creating list of potential speakers to invite to talk
 
-No summary here, don't want to spoil it for you ;)
+No summary here, don't want to spoil it for you :wink:
 
 ## Potential contributors
 
 If you have any suggestions on topics, want to present something, or know a
 friend who does.  Please reach out by either [opening a discussion][2],
-[sending a DM][3] or [email][4]. Whatever works best for you :)
+[sending a DM][3] or [email][4]. Whatever works best for you :smile:
 
 [0]: https://www.meetup.com/JAMstack-Oslo/
 [1]: https://discord.gg/rE3pcSw
