@@ -16,4 +16,4 @@ _book
 *.pdf
 
 *.swp
-.vuepress
+.vuepress/dist
