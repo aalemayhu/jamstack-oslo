@@ -1,12 +1,12 @@
-# jamstack-oslo
+# JAMstack Oslo
 
-Notes on organization and planning of JAMstack Oslo.
+Notes on the organization and planning of JAMstack Oslo.
 
 ## Schedule
 
-Physcical planning meetings are scheduled adhoc. If you would like to help out
-with planning, you can attend the monthly conference call on the 5th from 7PM
-to 8PM in the [#monthly-planning][0] channel.
+Physical planning meetings are scheduled on demand. If you would like to help
+out with planning, you can attend the monthly conference call on the 5th from
+7PM to 8PM in the [#monthly-planning][0] channel on Discord.
 
 For a full overview see the [public calendar][1].
 
