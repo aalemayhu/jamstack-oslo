@@ -5,14 +5,7 @@ Author: Alexander Alemayhu
 Aman and me had a productive meeting regarding JAMstack Oslo.
 We went through the following items
 
-- Motivation for organizing a meetup
-- The kind of format we would like to have
-- Collaborating with Knut from Sanity and others
-- Rough sketch of potential events for the year
-- Monthly conference call for planning early in the month
-- Polishing the meetup page
-- Creating list of potential speakers to invite to talk
-- Potential contributors
+[[toc]]
 
 ## Motivation for organizing a meetup
 
