@@ -63,8 +63,9 @@ I emphasized my dreams on collaborating with other people to get the meetup in
 a healthy shape.  We are still in the early phases but we will always keep
 looking out for others who want to help organize or are taking initiative.  If
 you are interested, please feel free to reach out on [Discord][1], attend
-planning [meetings][2] or [email][3]. The next conference
-call is this Saturday from 7PM to 8PM in the [#monthly-planning][10].
+planning [meetings][2] or [email][3].
+
+The next conference call is this Saturday from 7PM to 8PM in the [#monthly-planning][10].
 
 ## Which companies in Norway use Netlify?
 
