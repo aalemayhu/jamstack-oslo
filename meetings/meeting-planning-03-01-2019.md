@@ -41,7 +41,7 @@ March. Of course no spoilers, check [Meetup][7] early each month :wink:
 
 It’s still early but we would love to collaborate with the Netlify people.
 They might help us reach more interested people in Europe or those who intend
-to travel here. Also getting our page on the [JAMstack.org][11] website would
+to travel here. Getting our page on the [JAMstack.org][11] website would
 be awesome but we can revisit all this after hosting a few events.
 
 ## Remote speakers
@@ -63,7 +63,7 @@ I emphasized my dreams on collaborating with other people to get the meetup in
 a healthy shape.  We are still in the early phases but we will always keep
 looking out for others who want to help organize or are taking initiative.  If
 you are interested, please feel free to reach out on [Discord][1], attend
-planning [meetings][2] or email me at [a@alemayhu.com][3]. The next conference
+planning [meetings][2] or [email][3]. The next conference
 call is this Saturday from 7PM to 8PM in the [#monthly-planning][10].
 
 ## Which companies in Norway use Netlify?
