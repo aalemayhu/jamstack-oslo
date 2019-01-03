@@ -1,6 +1,6 @@
 # JAMstack Oslo
 
-Notes on the organization and planning of JAMstack Oslo.
+Notes on the organization and planning of [JAMstack Oslo][2].
 
 ## Schedule
 
@@ -19,3 +19,4 @@ For a full overview see the [public calendar][1].
 
 [0]: https://discord.gg/rE3pcSw
 [1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
+[2]: https://www.meetup.com/JAMstack-Oslo/
