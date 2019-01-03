@@ -28,11 +28,11 @@ host so the community is in charge of the program.
 
 ## Recording and live streams
 
-The was a lot of equipment in there and recording all talks should be possible.
+There was a lot of equipment in there and recording all talks should be possible.
 In the unlikely case we should need a disco ball, they have it.
 
 Knut has already contacted the people at Byteconf regarding live streaming on
-Twitch. It would awesome to get this for all meetups :grin:
+Twitch. It would awesome to get this for all the talks :grin:
 
 ## Speaker line up
 
@@ -40,21 +40,21 @@ We also briefly talked about the possible speakers / topics for February and
 March. Of course no spoilers, check [Meetup][7] early each month :wink:
 
 It’s still early but we would love to collaborate with the Netlify people.
-They might help us reach more interested people around Norway or those who
-intend to travel here. Also getting our page on the JAMstack.org website would
+They might help us reach more interested people in Europe or those who intend
+to travel here. Also getting our page on the [JAMstack.org][11] website would
 be awesome but we can revisit all this after hosting a few events.
 
 ## Remote speakers
 
 We talked about event types. See the meeting notes for [Snakke om JAMstack #1][0] for details.
-Knut had the great idea of trying out, remote presentations. I like the a idea
-and we should definitely try this!
+Knut had the great idea of trying out, remote presentations. I like it and we
+should definitely try this!
 
 
 ## Kode24
 
 The magazine at [kode24][kode24] published a article today about their [coding
-calender][9].  Knut will establish dialogue with them.
+calender][9].  Knut will establish a dialogue with them.
 
 
 ## Building a organization team
@@ -69,9 +69,9 @@ call is this Saturday from 7PM to 8PM in the [#monthly-planning][10].
 ## Which companies in Norway use Netlify?
 
 This was an idea originally from Aman and I made a npm module [isun][4] which
-just checks the HTTP headers for Netlify related string. The plan is to use
+just checks the HTTP headers for a Netlify related string. The plan is to use
 this to build a website that reads company data from [Brønnøysundregistrene][5]
-and detects possible companies we can invite to talk. We already have a good
+so we can find more companies we can invite to talk. We already have a good
 list of potentials but it won't hurt to grow it.
 
 ## January Meetup
@@ -89,7 +89,6 @@ Hopefully someone from the community will be talking about this in the future.
 
 Thank you for reading this. I hope to see you [later this month][6].
 
-
 [0]: meeting-planning-22-12-2018.html#the-kind-of-format-we-would-like-to-have
 [1]: https://discord.gg/rE3pcSw
 [2]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
@@ -102,3 +101,4 @@ Thank you for reading this. I hope to see you [later this month][6].
 [kode24]: https://www.kode24.no
 [9]: https://www.kode24.no/guider/slik-hoster-vi-toms-hosting/70615974
 [10]: https://discord.gg/rE3pcSw
+[11]: https://jamstack.org/
