@@ -1,4 +1,4 @@
-# Checklist for organizing JAMstack Oslo event
+# Checklist for organizing
 
 TODO: update this page.
 
