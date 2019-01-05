@@ -20,6 +20,7 @@ module.exports = {
 	title: 'Meetings',
 	collapsable: false,
 	children: [
+	  '/meetings/checklist',
 	  '/meetings/meeting-planning-22-12-2018',
 	  '/meetings/meeting-planning-03-01-2019'
 	]
