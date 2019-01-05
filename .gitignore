@@ -17,3 +17,5 @@ _book
 
 *.swp
 .vuepress/dist
+
+npm-debug.log
