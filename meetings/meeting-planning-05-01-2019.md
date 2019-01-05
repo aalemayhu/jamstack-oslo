@@ -30,19 +30,21 @@ place to host [the organization website][4] and related pages / apps.
 
 ## What's next?
 
-Since January is now fully planned we got to move on two the potential speakers
+Since January is now fully planned we got to move on to the potential speakers
 for March and February. No spoilers in here, see [Meetup][3] or [Discord][0] ;)
-Aman has already someone in mind and will hopefully invite them soon.  It's
-still early but we have someone in mind for March and I will follow up.
+Aman has already someone in mind and will invite them soon.  It's still early
+but we have someone in mind for March and I will follow up.
 
 ## Misc
 
 At the end we discussed possible ways to reach more people.  We will try
 different approaches on reaching out to potential speakers.  If you have
 someone in mind or would like to present in any of the available slots for
-2019, feel free suggest on [Discord][0], [email][8], [Meetup][3] or next
+2019, feel free to suggest on [Discord][0], [email][8], [Meetup][3] or next
 conference call on 5th February 7PM - 8PM. If you are interested in helping
 organizing please reach out.
+
+See you hopefully on the next meetup.
 
 
 [0]: https://discord.gg/rE3pcSw
