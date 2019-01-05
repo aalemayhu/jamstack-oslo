@@ -13,14 +13,14 @@ module.exports = {
 	title: 'Home',
 	collapsable: false,
 	children: [
-	  '/'
+	  '/',
+	  '/meetings/checklist',
 	]
       },
       {
 	title: 'Meetings',
 	collapsable: false,
 	children: [
-	  '/meetings/checklist',
 	  '/meetings/meeting-planning-22-12-2018',
 	  '/meetings/meeting-planning-03-01-2019',
 	  '/meetings/meeting-planning-05-01-2019'
