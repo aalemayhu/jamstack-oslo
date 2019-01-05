@@ -8,14 +8,11 @@ Written by Alexander Alemayhu.
 
 Aman Mender and I did the first JAMstack Oslo conference call on the [Discord server][0].
 As usual with streaming software we started of with some issues, but they were
-quickly resolved by [Push-to-Talk][1]. The topics for today were
+quickly resolved by [Push-to-Talk][1].
+
+The topics for today were
 
 [[toc]]
-
-## GitHub organization
-
-We created a new [GitHub organization][5] for the [Meetup][3]. This will be a
-place to host [the organization website][4] and related pages / apps.
 
 ## Thoughts on the upcoming Meetup
 
@@ -25,6 +22,11 @@ backup topic in the unlikely case the speaker can't make it.
 
 I will try to follow up on slides and post stream / video links to the Meetup
 page.  Byteconf will be streaming it on their [Twitch channel][2].
+
+## GitHub organization
+
+We created a new [GitHub organization][5] for the [Meetup][3]. This will be a
+place to host [the organization website][4] and related pages / apps.
 
 ## What's next?
 
