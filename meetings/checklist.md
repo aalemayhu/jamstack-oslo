@@ -9,6 +9,7 @@
 0. Polish the Meetup text.
 0. Tweet / Post it on the internet.
 0. Again remember to keep [#planning][0] channel up to date.
+0. Get to the venue early if possible
 
 Meetup text template below
 
