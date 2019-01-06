@@ -10,7 +10,9 @@
 0. Tweet / Post it on the internet.
 0. Again remember to keep [#planning][0] channel up to date.
 
-## Meetup text template
+Meetup text template below
+
+---
 
 ```
 <insert greeting here>
@@ -29,9 +31,14 @@ Bio: <write about the speaker(s) here>
 
 # Practicalities
 
-Sanity.io is located in Grünerløkka not far from downtown Oslo. You can easily get there by trams 11 / 12 / 13. If you arrive by tram the stop is Olaf Ryes plass from where you have a few minutes walk to the Sanity entrance. The entrance is right next to Godt brød and very visible. Look for a yellow building or use Google Maps: https://goo.gl/maps/BuuYvnW4AnF2.
+Sanity.io is located in Grünerløkka not far from downtown Oslo. You can easily
+get there by trams 11 / 12 / 13. If you arrive by tram the stop is Olaf Ryes
+plass from where you have a few minutes walk to the Sanity entrance. The
+entrance is right next to Godt brød and very visible. Look for a yellow
+building or use Google Maps: https://goo.gl/maps/BuuYvnW4AnF2.
 
-If you have any issues reaching the venue or questions, feel free to call Alexander on +47 401 04 387.
+If you have any issues reaching the venue or questions, feel free to call
+Alexander on +47 401 04 387.
 
 See you soon!
 ```
