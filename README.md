@@ -16,12 +16,13 @@ then attending the next meetup might be better, see [Meetup.com][2] for dates.
 
 You can attend the community conference call on the 5th every month from 7PM to
 8PM in the [#monthly-planning][0] channel on [Discord][0].  For a full overview
-on the dates see our [public calendar][1].
+on the dates see the [calendar][1].
 
 ### Chat
 
 We a have a [Discord][0] server setup for real-time interactions. It's like
-Slack but better :wink:
+Slack but better :wink: Another reason to join is all of the notes on the
+upcoming events are recorded there.
 
 ### Misc
 
