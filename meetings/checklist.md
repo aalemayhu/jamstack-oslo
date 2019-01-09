@@ -10,6 +10,7 @@
 0. Tweet / Post it on the internet.
 0. Again remember to keep [#planning][0] channel up to date.
 0. Get to the venue early if possible
+0. Review this document and polish it :wink:
 
 Meetup text template below
 
@@ -43,7 +44,5 @@ Alexander on +47 401 04 387.
 
 See you soon!
 ```
-
-TODO: link to it from ../README.md
 
 [0]: https://discord.gg/rE3pcSw
