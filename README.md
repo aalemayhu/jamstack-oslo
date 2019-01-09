@@ -99,7 +99,12 @@ If you are old school then feel free to reach out on [Email](mailto:alexander@al
 
 If you prefer issues you can open up one [here](https://github.com/JAMstack-Oslo/org-website/issues).
 
-## Past meetings
+## Notes from previous meetings
+
+Alexander Alemayhu tries to write summaries from the planning meetings to keep
+the community up to date. If you are interested in writing notes for any of the
+meetings, just do it! Feel free to show your interest on [Discord][0] or open up
+a pull request on [JAMstack-Oslo/org-website][6].
 
 | Date       | Link                                                             |
 | ---------- | ---------------------------------------------------------------- |
@@ -114,3 +119,4 @@ If you prefer issues you can open up one [here](https://github.com/JAMstack-Oslo
 [3]: https://jamstack.org
 [4]: https://sanity.io
 [5]: https://discordapp.com/download
+[6]: https://github.com/JAMstack-Oslo/org-website
