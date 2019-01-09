@@ -18,9 +18,8 @@ team. If you are interested please [reach out](#ways-to-reach-out).
 ### Inviting speakers
 
 If you have suggestions for topics or people who we should invite, please share
-them with us.  We are actively looking for new people to join the organization
-team.  
-
+them with us. We are actively looking for new people to join the organization
+team.
 
 ### Giving feedback
 
@@ -36,39 +35,39 @@ books, etc. you want to give attendees, [tell us about it](#ways-to-reach-out).
 
 #### Topics for 2019
 
-Below is list of the dates for today. Event pages with `?` means no-one has
-started looking or suggested a speaker / topic yet. `/` means we are planning
+Below is list of the dates for today. Event pages with `👀` means no-one has
+started looking or suggested a speaker / topic yet. `🔜` means we are planning
 to establish dialog or have invited someone. Don't feel discouraged if a date
-is marked `/` and you want to present then. Until a event link is added below
+is marked `🔜` and you want to present then. Until a event link is added below
 you can consider the date as available. Please join our [Discord][0] to
 coordinate.
 
-| Date       | Event page                   |
-| ---------- | ---------------------------- |
+| Date       | Event page                                                            |
+| ---------- | --------------------------------------------------------------------- |
 | 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] |
-| 2-26-2019  | / |
-| 3-26-2019  | / | 
-| 4-30-2019  | ? |
-| 5-28-2019  | ? |
-| 6-25-2019  | ? |
-| 7-30-2019  | ? |
-| 8-27-2019  | ? |
-| 9-24-2019  | ? |
-| 10-29-2019 | ? | 
-| 11-26-2019 | ? |
-| 12-31-2019 | ? |
+| 2-26-2019  | 🔜                                                                    |
+| 3-26-2019  | 🔜                                                                    |
+| 4-30-2019  | 👀                                                                    |
+| 5-28-2019  | 👀                                                                    |
+| 6-25-2019  | 👀                                                                    |
+| 7-30-2019  | 👀                                                                    |
+| 8-27-2019  | 👀                                                                    |
+| 9-24-2019  | 👀                                                                    |
+| 10-29-2019 | 👀                                                                    |
+| 11-26-2019 | 👀                                                                    |
+| 12-31-2019 | 👀                                                                    |
 
 ## Ways to reach out
 
 ### In person
 
-Physical planning meetings are scheduled on demand.  If you prefer in person
+Physical planning meetings are scheduled on demand. If you prefer in person
 then attending the next meetup might be better, see [Meetup.com][2] for dates.
 
 ### Monthly conference calls
 
 You can attend the community conference call on the 5th every month from 7PM to
-8PM in the [#monthly-planning][0] channel on [Discord][0].  For a full overview
+8PM in the [#monthly-planning][0] channel on [Discord][0]. For a full overview
 on the dates see the [calendar][1].
 
 ### Chat
@@ -85,8 +84,8 @@ If you prefer issues you can open up one [here](https://github.com/JAMstack-Oslo
 
 ## Past meetings
 
-| Date       | Link                   |
-| ---------- | ---------------------- |
+| Date       | Link                                                             |
+| ---------- | ---------------------------------------------------------------- |
 | 22-12-2018 | [Snakke om JAMstack #1](meetings/meeting-planning-22-12-2018.md) |
 | 03-01-2019 | [Snakke om JAMstack #2](meetings/meeting-planning-03-01-2019.md) |
 | 05-01-2019 | [Snakke om JAMstack #3](meetings/meeting-planning-05-01-2019.md) |
