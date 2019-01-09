@@ -21,6 +21,16 @@ If you have suggestions for topics or people who we should invite, please share
 them with us. We are actively looking for new people to join the organization
 team. If you want to invite someone, see [Topics for 2019](#topics-for-2019).
 
+### Less structure
+
+While the primary event will be the monthly talks we encourage members of the
+meetup group to organize other types of events like JAMstack social where the
+environment could be f. ex. in a bar or a coffee shop and overall more
+spontaneous.  These types are much more flexible and you can freely pick the
+date and time. Know of a good place to for this or do you want to organize
+this?  [Let us know about it][0] :smile:.
+
+
 ### Giving feedback
 
 We want to make this event excellent and improve it wherever possible. If you
