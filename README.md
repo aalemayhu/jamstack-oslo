@@ -19,7 +19,7 @@ team. If you are interested please [reach out](#ways-to-reach-out).
 
 If you have suggestions for topics or people who we should invite, please share
 them with us. We are actively looking for new people to join the organization
-team.
+team. If you want to invite someone, see [Topics for 2019](#topics-for-2019).
 
 ### Giving feedback
 
