@@ -14,7 +14,13 @@ module.exports = {
 	collapsable: false,
 	children: [
 	  '/',
-	  '/meetings/checklist',
+	]
+      },
+      {
+        title: 'Organizing',
+        collapsable: false,
+	children: [
+	  '/organization/checklist',
 	]
       },
       {
@@ -25,7 +31,7 @@ module.exports = {
 	  '/meetings/meeting-planning-03-01-2019',
 	  '/meetings/meeting-planning-05-01-2019'
 	]
-      },
+      }
     ]
   }
 }

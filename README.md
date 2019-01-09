@@ -51,7 +51,7 @@ started looking or suggested a speaker / topic yet. `🔜` means we are planning
 to establish dialog or have invited someone. Don't feel discouraged if a date
 is marked `🔜` and you want to present then. Until a event link is added below
 you can consider the date as available. Please join our [Discord][0] to
-coordinate and read the [Checklist for organizing][7].
+coordinate and read the [Checklist for inviting speaker][7].
 
 | Date       | Event page                                                            |
 | ---------- | --------------------------------------------------------------------- |
@@ -120,4 +120,4 @@ a pull request on [JAMstack-Oslo/org-website][6].
 [4]: https://sanity.io
 [5]: https://discordapp.com/download
 [6]: https://github.com/JAMstack-Oslo/org-website
-[7]: checklist.html#checklist-for-organizing
+[7]: organization/checklist.html#checklist-for-organizing

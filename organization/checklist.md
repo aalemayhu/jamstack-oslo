@@ -1,4 +1,4 @@
-# Checklist for organizing
+# Checklist for inviting speaker
 
 0. Coordinate who you plan on inviting in the [#planning][0] channel on Discord.
 0. Reach out to the potential speaker(s).
