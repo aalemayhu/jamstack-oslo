@@ -24,14 +24,15 @@ team. If you want to invite someone, see [Topics for 2019](#topics-for-2019).
 ### Giving feedback
 
 We want to make this event excellent and improve it wherever possible. If you
-have time tell us what you like and what can be improved, thanks.
+have time [tell us][#ways-to-reach-out] what you like and what can be improved,
+thanks.
 
 ### Sponsoring
 
 Fortunately thanks to the kind people at [Sanity][4], we don't have high
 operational cost, but if you would like to provide catering or sponsor a social
 evening, we might be interested. Also If you have some swag like t-shirts,
-books, etc. you want to give attendees, [tell us about it](#ways-to-reach-out).
+books, etc. you want to give attendees, [tell us](#ways-to-reach-out) about it.
 
 #### Topics for 2019
 
