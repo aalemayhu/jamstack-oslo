@@ -6,7 +6,7 @@ unfamiliar with git but wanting to move away from FTP, this is also for you!
 
 The goal of this [meetup][2] is to nurture and grow a Oslo chapter of the
 [JAMstack meetup][3]. If you would like to help out, please see ways you can do
-that [below][#contribute].
+that [below](#contribute).
 
 ## Contribute
 
