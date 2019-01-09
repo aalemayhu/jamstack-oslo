@@ -1,9 +1,55 @@
 # JAMstack Oslo
 
+JAMstack Oslo is a group for anyone interested in Javascript, static site
+generation, markup, git based deployments. If you are a web developer
+unfamiliar with git but wanting to move away from FTP, this is also for you!
+
+The goal of this [meetup][2] is to nurture and grow a Oslo chapter of the
+[JAMstack meetup][3]. If you would like to help out, please see ways you can do
+that below.
+
+## Contribute
+
+We are very happy that you are interested in contributing and welcome you :smile:
+JAMstack Oslo is run on a volunteer basis so we are dependent on volunteers to
+get things done. We are actively seeking new people to join the organization
+team. If you are interested please [reach out](#ways-to-reach-out).
+
+### Inviting speakers
+
 If you have suggestions for topics or people who we should invite, please share
 them with us.  We are actively looking for new people to join the organization
-team.  If you are interested, please reach out.  We are also very receptive to
-feedback and value it. Tell us what you like and what can be improved, thanks.
+team.  
+
+
+### Giving feedback
+
+We want to make this event excellent and improve it wherever possible. If you
+have time tell us what you like and what can be improved, thanks.
+
+### Sponsoring
+
+Fortunately thanks to the kind people at [Sanity][4], we don't have high
+operational cost, but if you would like to provide catering or sponsor a social
+evening, we might be interested. Also If you have some swag like t-shirts,
+books, etc. you want to give attendees, [tell us about it](#ways-to-reach-out).
+
+#### Topics for 2019
+
+| Date       | Event page                   |
+| ---------- | ---------------------------- |
+| 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] |
+| 2-26-2019  | ? |
+| 3-26-2019  | ? | 
+| 4-30-2019  | ? |
+| 5-28-2019  | ? |
+| 6-25-2019  | ? |
+| 7-30-2019  | ? |
+| 8-27-2019  | ? |
+| 9-24-2019  | ? |
+| 10-29-2019 | ? | 
+| 11-26-2019 | ? |
+| 12-31-2019 | ? |
 
 ## Ways to reach out
 
@@ -41,3 +87,6 @@ If you prefer issues you can open up one [here](https://github.com/JAMstack-Oslo
 [0]: https://discord.gg/rE3pcSw
 [1]: https://calendar.google.com/calendar?cid=YWxlbWF5aHUuY29tX2tzaGxxbHFsZjdmYTlnbjZjZWRqY2NsZzRjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
 [2]: https://www.meetup.com/JAMstack-Oslo/
+[1-29-2019]: https://www.meetup.com/de-DE/JAMstack-Oslo/events/257379094/
+[3]: https://jamstack.org
+[4]: https://sanity.io
