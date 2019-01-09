@@ -70,6 +70,9 @@ coordinate.
 
 ## Ways to reach out
 
+We try to be very accessible and someone is usually checking the [Discord][0]
+server frequently.
+
 ### In person
 
 Physical planning meetings are scheduled on demand. If you prefer in person
@@ -81,11 +84,14 @@ You can attend the community conference call on the 5th every month from 7PM to
 8PM in the [#monthly-planning][0] channel on [Discord][0]. For a full overview
 on the dates see the [calendar][1].
 
+If you are new to Discord or use the website, please [download the desktop
+app][5] beforehand to avoid any audio issues. Thanks!
+
 ### Chat
 
-We a have a [Discord][0] server setup for real-time interactions. It's like
-Slack but better :wink: Another reason to join is all of the notes on the
-upcoming events are recorded there.
+As mentioned above we a have a [Discord][0] server setup for real-time
+interactions. It's like Slack but better :wink: Another reason to join is all
+of the notes on the upcoming events are recorded there.
 
 ### Misc
 
@@ -107,3 +113,4 @@ If you prefer issues you can open up one [here](https://github.com/JAMstack-Oslo
 [1-29-2019]: https://www.meetup.com/de-DE/JAMstack-Oslo/events/257379094/
 [3]: https://jamstack.org
 [4]: https://sanity.io
+[5]: https://discordapp.com/download
