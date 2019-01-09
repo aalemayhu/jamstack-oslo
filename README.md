@@ -34,7 +34,7 @@ this?  [Let us know about it][0] :smile:.
 ### Giving feedback
 
 We want to make this event excellent and improve it wherever possible. If you
-have time [tell us][#ways-to-reach-out] what you like and what can be improved,
+have time [tell us](#ways-to-reach-out) what you like and what can be improved,
 thanks.
 
 ### Sponsoring
