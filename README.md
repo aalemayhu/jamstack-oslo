@@ -36,11 +36,18 @@ books, etc. you want to give attendees, [tell us about it](#ways-to-reach-out).
 
 #### Topics for 2019
 
+Below is list of the dates for today. Event pages with `?` means no-one has
+started looking or suggested a speaker / topic yet. `/` means we are planning
+to establish dialog or have invited someone. Don't feel discouraged if a date
+is marked `/` and you want to present then. Until a event link is added below
+you can consider the date as available. Please join our [Discord][0] to
+coordinate.
+
 | Date       | Event page                   |
 | ---------- | ---------------------------- |
 | 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] |
-| 2-26-2019  | ? |
-| 3-26-2019  | ? | 
+| 2-26-2019  | / |
+| 3-26-2019  | / | 
 | 4-30-2019  | ? |
 | 5-28-2019  | ? |
 | 6-25-2019  | ? |
