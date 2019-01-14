@@ -1,4 +1,4 @@
-# JAMstack Oslo
+# Welcome to the JAMstack Oslo Community
 
 JAMstack Oslo is a group for anyone interested in Javascript, static site
 generation, markup, git based deployments. If you are a web developer
