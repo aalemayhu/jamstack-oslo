@@ -11,6 +11,7 @@ that [below](#contribute).
 ## Contribute
 
 We are very happy that you are interested in contributing and welcome you :smile:
+
 JAMstack Oslo is run on a volunteer basis so we are dependent on volunteers to
 get things done. We are actively seeking new people to join the organization
 team. If you are interested please [reach out](#ways-to-reach-out).
@@ -46,7 +47,7 @@ books, etc. you want to give attendees, [tell us](#ways-to-reach-out) about it.
 
 #### Topics for 2019
 
-Below is list of the dates for today. Event pages with `👀` means no-one has
+Below is list of the dates for this year. Event pages with `👀` means no-one has
 started looking or suggested a speaker / topic yet. `🔜` means we are planning
 to establish dialog or have invited someone. Don't feel discouraged if a date
 is marked `🔜` and you want to present then. Until a event link is added below
