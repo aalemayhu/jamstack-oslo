@@ -4,7 +4,7 @@ JAMstack Oslo is a group for anyone interested in Javascript, static site
 generation, markup, git based deployments. If you are a web developer
 unfamiliar with git but wanting to move away from FTP, this is also for you!
 
-The goal of this [meetup][2] is to nurture and grow a Oslo chapter of the
+The intention of this [meetup][2] is to nurture and grow a Oslo chapter of the
 [JAMstack meetup][3]. If you would like to help out, please see ways you can do
 that [below](#contribute).
 
@@ -18,19 +18,15 @@ team. If you are interested please [reach out](#ways-to-reach-out).
 
 ### Inviting speakers
 
-If you have suggestions for topics or people who we should invite, please [share them with us](#ways-to-reach-out). 
-We are actively looking for new people to join the organization team. If you
-want to invite someone, see [Topics for 2019](#topics-for-2019).
+If you have suggestions for topics or people who we should invite, please
+[share them with us](#ways-to-reach-out).  If you want to invite someone, see
+[Topics for 2019](#topics-for-2019).
 
-### Less structure
+### Formats
 
-While the primary event will be the monthly talks we encourage members of the
-meetup group to organize other types of events like JAMstack social where the
-environment could be f. ex. in a bar or a coffee shop and overall more
-spontaneous.  These types are much more flexible and you can freely pick the
-date and time. Know of a good place to for this or do you want to organize
-this?  [Let us know about it][0] :smile:.
-
+While the main event will be the monthly talks, nothing is set in stone and the
+community can shape the events. If you would like to do a lightning talk, host
+a social gathering, [join us](#ways-to-reach-out).
 
 ### Giving feedback
 
@@ -71,8 +67,8 @@ coordinate and read the [Checklist for inviting speaker][7].
 
 ## Ways to reach out
 
-We try to be very accessible and someone is usually checking the [Discord][0]
-server frequently.
+There are several avenues to getting in touch.  We try to be very accessible
+and someone is usually checking the [Discord][0] server frequently. 
 
 ### In person
 
@@ -91,14 +87,15 @@ or mobile app beforehand to avoid any audio issues. Thanks!
 ### Chat
 
 As mentioned above we a have a [Discord][0] server setup for real-time
-interactions. It's like Slack but better :wink: Another reason to join is all
-of the notes on the upcoming events are recorded there.
+interactions. We have a chat channel [#planning][8] which is the coordination
+point for inviting speakers. We share notes and progress in there. If you like
+to stay up to date then this is the right place for you.
 
 ### Misc
 
 If you are old school then feel free to reach out on [Email](mailto:alexander@alemayhu.com?subject=JAMstack-Oslo).
 
-If you prefer issues you can open up one [here](https://github.com/JAMstack-Oslo/org-website/issues).
+If you prefer GitHub issues you can open up one [here](https://github.com/JAMstack-Oslo/org-website/issues).
 
 ## Notes from previous meetings
 
@@ -122,3 +119,4 @@ a pull request on [JAMstack-Oslo/org-website][6].
 [5]: https://discordapp.com/download
 [6]: https://github.com/JAMstack-Oslo/org-website
 [7]: organization/checklist.html#checklist-for-organizing
+[8]: https://discord.gg/vtnng5g
