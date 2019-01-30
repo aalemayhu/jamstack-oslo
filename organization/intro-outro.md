@@ -27,6 +27,6 @@
 0. Credits  
    0.0 Thank attendees  
    0.1 Thank speaker(s)  
-   0.2 Thank remote viewers
+   0.2 Thank remote viewers  
    0.3 Thank venue host and video team  
 0. If food left over ask for help in eating
