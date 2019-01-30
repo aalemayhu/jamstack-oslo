@@ -21,6 +21,7 @@ module.exports = {
         collapsable: false,
 	children: [
 	  '/organization/checklist',
+	  '/organization/intro'
 	]
       },
       {
