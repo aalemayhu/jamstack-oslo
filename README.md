@@ -50,20 +50,20 @@ is marked `🔜` and you want to present then. Until a event link is added below
 you can consider the date as available. Please join our [Discord][0] to
 coordinate and read the [Checklist for inviting speaker][7].
 
-| Date       | Event page                                                            |
-| ---------- | --------------------------------------------------------------------- |
-| 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] |
-| 2-26-2019  | 🔜                                                                    |
-| 3-26-2019  | 🔜                                                                    |
-| 4-30-2019  | 👀                                                                    |
-| 5-28-2019  | 👀                                                                    |
-| 6-25-2019  | 👀                                                                    |
-| 7-30-2019  | 👀                                                                    |
-| 8-27-2019  | 👀                                                                    |
-| 9-24-2019  | 👀                                                                    |
-| 10-29-2019 | 👀                                                                    |
-| 11-26-2019 | 👀                                                                    |
-| 12-31-2019 | 👀                                                                    |
+| Date       | Event page                                                            | Recording                               |
+| ---------- | --------------------------------------------------------------------- | --------------------------------------- |
+| 1-29-2019  | [JAMstack Oslo going live: How to get started with Gatsby][1-29-2019] | [YouTube](https://youtu.be/nDd61kDJaOw) |
+| 2-26-2019  | 🔜                                                                    |                                         | 
+| 3-26-2019  | 🔜                                                                    |                                         |
+| 4-30-2019  | 👀                                                                    |                                         |
+| 5-28-2019  | 👀                                                                    |                                         |
+| 6-25-2019  | 👀                                                                    |                                         |
+| 7-30-2019  | 👀                                                                    |                                         |
+| 8-27-2019  | 👀                                                                    |                                         |
+| 9-24-2019  | 👀                                                                    |                                         |
+| 10-29-2019 | 👀                                                                    |                                         |
+| 11-26-2019 | 👀                                                                    |                                         |
+| 12-31-2019 | 👀                                                                    |                                         |
 
 ## Ways to reach out
 
