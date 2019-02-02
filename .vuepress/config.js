@@ -1,6 +1,12 @@
 module.exports = {
   title: 'JAMstack Oslo',
   description: 'Notes on the organization and planning of JAMstack Oslo chapter',
+  plugins: {
+    '@vuepress/pwa': {
+      serviceWorker: true,
+      updatePopup: true
+    }
+  },
   themeConfig: {
     nav: [
       { text: 'Meetup', link: 'https://www.meetup.com/JAMstack-Oslo/' },
