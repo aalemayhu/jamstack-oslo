@@ -1,4 +1,4 @@
-# [ARCHIVED: Welcome to the JAMstack Oslo Community
+# [ARCHIVED]: Welcome to the JAMstack Oslo Community
 
 Archived, this repository has moved to the official [JAMstack Oslo][0] organization.
 
