@@ -95,9 +95,8 @@ to stay up to date then this is the right place for you.
 
 ### Misc
 
-If you are old school then feel free to reach out on [Email](mailto:alexander@alemayhu.com?subject=JAMstack-Oslo).
-
-If you prefer GitHub issues you can open up one [here](https://github.com/JAMstack-Oslo/org-website/issues).
+For more old school variants you can reach out on [Email](mailto:alexander@alemayhu.com?subject=JAMstack-Oslo).
+If you prefer GitHub you can open up a [issue](https://github.com/JAMstack-Oslo/org-website/issues).
 
 ## Notes from previous meetings
 
