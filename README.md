@@ -4,9 +4,9 @@ JAMstack Oslo is a group for anyone interested in Javascript, static site
 generation, markup, git based deployments. If you are a web developer
 unfamiliar with git but wanting to move away from FTP, this is also for you!
 
-The intention of this [meetup][2] is to nurture and grow a Oslo chapter of the
-[JAMstack meetup][3]. If you would like to help out, please see ways you can do
-that [below](#contribute).
+The intention of this [user group][2] is to nurture and grow a Oslo chapter of
+the [JAMstack][3] community. If you would like to help out, please see ways you
+can do that [below](#contribute).
 
 ## Contribute
 
